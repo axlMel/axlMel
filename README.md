@@ -77,9 +77,9 @@ GPS systems • hardware-to-software thinking 📍🌎👨‍🔧</h3>
 	<li><b> ✔ **Concepts:** MVC, REST APIs, System Design, Hardware–Software Integration, ¡DONT REPEAT YOURSELF! 😎</li>
 </ul>
 
-<br><br>
+<br clear="both">
 
-<picture align="left"> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture align="left"> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="max-width: 100%; height: auto;"></picture>
 
 <img align="right" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 
@@ -92,7 +92,7 @@ GPS systems • hardware-to-software thinking 📍🌎👨‍🔧</h3>
   <li>Documenting my coding journey through projects and technical content</li>
 </ul>
 
-<br><br><br>
+<br clear="both">
 
 <hr>
 
