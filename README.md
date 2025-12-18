@@ -62,12 +62,11 @@ GPS systems • hardware-to-software thinking 📍🌎👨‍🔧</h3>
 
 <hr>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <br clear="both">
+<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <h2 align="left">🛠 Tech Stack</h2>
 <br clear="both">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <ul>
 	<li><b> ✔ **Languages:** C++, Ruby, SQL, JavaScript 😊 </li>
 	<li><b> ✔ **Backend:** Ruby on Rails</li>
@@ -79,12 +78,11 @@ GPS systems • hardware-to-software thinking 📍🌎👨‍🔧</h3>
 
 <br clear="both">
 
-<picture align="left"> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="max-width: 100%; height: auto;"></picture>
-
-<img align="right" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <br clear="both">
+<img align="right" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <h2 align="right">🎯 Current Focus</h2>
 <br clear="both">
+<picture align="left"> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="max-width: 100%; height: auto;"></picture>
 <ul>
   <li>Strengthening Full Stack development skills</li>
   <li>Building real-world projects with Ruby on Rails</li>
